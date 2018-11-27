@@ -11,10 +11,19 @@ public class FIZZBUZZ {
         return "Welcome to fizzbuzz "+name;
     }
 
-    public int returnNumber(int number) {
+    public String returnNumber(int number) {
         this.number = number;
-        return number;
-    }
+        if (number == 1) {
+            return "You have chosen to return " + number + " result!";
+        }else if (number > 1) {
+                return "You have chosen to return " + number + " results!";
+        }else {
+
+            return "Please enter a number greater than zero!";
+        }
+
+        }
+
     public String results() {
         String result = "";
         for (int i=1; i<=this.number; i++){

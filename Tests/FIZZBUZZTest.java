@@ -13,14 +13,14 @@ public class FIZZBUZZTest {
     @Test
     public void returnNumber() throws Exception {
         FIZZBUZZ test2 = new FIZZBUZZ();
-        int result = test2.returnNumber(2);
-        assertEquals(2, result);
+        String result = test2.returnNumber(2);
+        assertEquals("You have chosen to return 2 results!", result);
     }
     @Test
     public void testItPrintsNumbers() {
         FIZZBUZZ test3 = new FIZZBUZZ();
         test3.returnNumber(10);
-        String result = test3.results();
-        assertEquals("1 2 Buzz 4 Fizz Buzz 7 8 Buzz Fizz", result);
+        String FBresult = test3.results();
+        assertEquals("1 2 Buzz 4 Fizz Buzz 7 8 Buzz Fizz", FBresult);
     }
 }
