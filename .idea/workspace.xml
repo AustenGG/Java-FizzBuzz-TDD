@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="11330219-5e55-4332-b764-75646f18d2e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Birthday-app" beforeDir="false" afterPath="$PROJECT_DIR$/../Birthday-app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/FIZZBUZZTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/FIZZBUZZTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA-FIZZBUZZ-TDD/FIZZBUZZ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA-FIZZBUZZ-TDD/FIZZBUZZ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/JAVA-FIZZBUZZ-TDD/FIZZBUZZTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/JAVA-FIZZBUZZ-TDD/FIZZBUZZTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FIZZBUZZ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FIZZBUZZ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Online-database-notes-app" beforeDir="false" afterPath="$PROJECT_DIR$/../Online-database-notes-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../airportv2/MIT.LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../airportv2/SpecRunner.html" beforeDir="false" />
@@ -46,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/FIZZBUZZ.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="244">
-              <caret line="21" column="62" lean-forward="true" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+              <caret line="21" column="61" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="61" />
               <folding>
                 <element signature="e#149#150#0" expanded="true" />
                 <element signature="e#198#199#0" expanded="true" />
@@ -59,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/Tests/FIZZBUZZTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="49" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,7 +138,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543337053006" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543337386182" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -199,12 +194,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FIZZBUZZTest - 2018.11.27 at 15h 44m 10s.xml">
-      <configuration name="FIZZBUZZTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FIZZBUZZTest - 2018.11.27 at 16h 12m 10s.xml">
-      <configuration name="FIZZBUZZTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FIZZBUZZTest - 2018.11.27 at 16h 19m 16s.xml">
       <configuration name="FIZZBUZZTest" configurationId="JUnit" />
     </history-entry>
@@ -227,6 +216,12 @@
       <configuration name="FIZZBUZZTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="FIZZBUZZTest - 2018.11.27 at 16h 43m 50s.xml">
+      <configuration name="FIZZBUZZTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FIZZBUZZTest - 2018.11.27 at 16h 44m 15s.xml">
+      <configuration name="FIZZBUZZTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FIZZBUZZTest - 2018.11.27 at 16h 49m 09s.xml">
       <configuration name="FIZZBUZZTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -276,7 +271,7 @@
     <entry file="file://$PROJECT_DIR$/src/FIZZBUZZ.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
-          <caret line="21" column="62" lean-forward="true" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+          <caret line="21" column="61" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="61" />
           <folding>
             <element signature="e#149#150#0" expanded="true" />
             <element signature="e#198#199#0" expanded="true" />
@@ -287,7 +282,7 @@
     <entry file="file://$PROJECT_DIR$/Tests/FIZZBUZZTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="49" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

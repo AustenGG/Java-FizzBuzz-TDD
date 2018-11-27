@@ -11,11 +11,26 @@ public class FIZZBUZZTest {
         assertEquals("Welcome to fizzbuzz Austen", test.getName());
     }
     @Test
-    public void returnNumber() throws Exception {
+    public void returnNumbers() throws Exception {
         FIZZBUZZ test2 = new FIZZBUZZ();
         String result = test2.returnNumber(2);
         assertEquals("You have chosen to return 2 results!", result);
     }
+
+    @Test
+    public void returnNumber1() throws Exception {
+        FIZZBUZZ test2 = new FIZZBUZZ();
+        String result = test2.returnNumber(1);
+        assertEquals("You have chosen to return 1 result!", result);
+    }
+
+    @Test
+    public void returnNumber0() throws Exception {
+        FIZZBUZZ test2 = new FIZZBUZZ();
+        String result = test2.returnNumber(0);
+        assertEquals("Please enter a number greater than zero!", result);
+    }
+
     @Test
     public void testItPrintsNumbers() {
         FIZZBUZZ test3 = new FIZZBUZZ();
