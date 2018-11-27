@@ -1,8 +1,8 @@
 public class FIZZBUZZ {
     private String name;
+    private int number;
 
-
-    public FIZZBUZZ (String name) {
+    public void name (String name) {
         this.name = name;
 
     }
@@ -10,4 +10,10 @@ public class FIZZBUZZ {
     public String getName() {
         return "Welcome to fizzbuzz "+name;
     }
+
+    public int returnNumber(int number) {
+        this.number = number;
+        return number;
+    }
+
 }
